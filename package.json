@@ -1,0 +1,22 @@
+{
+  "name": "electron-press",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "vuepress build docs && gh-pages -d docs/.vuepress/dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress/bundler-vite": "^2.0.0-rc.18",
+    "@vuepress/theme-default": "^2.0.0-rc.61",
+    "sass-embedded": "^1.81.0",
+    "vuepress": "^2.0.0-rc.18"
+  },
+  "dependencies": {
+    "gh-pages": "^6.2.0"
+  }
+}
