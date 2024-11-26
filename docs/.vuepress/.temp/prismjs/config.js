@@ -1,9 +1,9 @@
-import "/Users/koopos/code/docs/electron-press/node_modules/@vuepress/highlighter-helper/lib/client/styles/base.css"
-import "/Users/koopos/code/docs/electron-press/node_modules/@vuepress/plugin-prismjs/lib/client/styles/nord.css"
-import "/Users/koopos/code/docs/electron-press/node_modules/@vuepress/highlighter-helper/lib/client/styles/line-numbers.css"
-import "/Users/koopos/code/docs/electron-press/node_modules/@vuepress/highlighter-helper/lib/client/styles/notation-highlight.css"
-import "/Users/koopos/code/docs/electron-press/node_modules/@vuepress/highlighter-helper/lib/client/styles/collapsed-lines.css"
-import { setupCollapsedLines } from "/Users/koopos/code/docs/electron-press/node_modules/@vuepress/highlighter-helper/lib/client/composables/collapsedLines.js"
+import "D:/workspace/new/doc-electron-template/node_modules/@vuepress/highlighter-helper/lib/client/styles/base.css"
+import "D:/workspace/new/doc-electron-template/node_modules/@vuepress/plugin-prismjs/lib/client/styles/nord.css"
+import "D:/workspace/new/doc-electron-template/node_modules/@vuepress/highlighter-helper/lib/client/styles/line-numbers.css"
+import "D:/workspace/new/doc-electron-template/node_modules/@vuepress/highlighter-helper/lib/client/styles/notation-highlight.css"
+import "D:/workspace/new/doc-electron-template/node_modules/@vuepress/highlighter-helper/lib/client/styles/collapsed-lines.css"
+import { setupCollapsedLines } from "D:/workspace/new/doc-electron-template/node_modules/@vuepress/highlighter-helper/lib/client/composables/collapsedLines.js"
 
 export default {
   setup() {

@@ -1,13 +1,13 @@
-import * as clientConfig0 from '/Users/koopos/code/docs/electron-press/node_modules/@vuepress/plugin-active-header-links/lib/client/config.js'
-import * as clientConfig1 from '/Users/koopos/code/docs/electron-press/node_modules/@vuepress/plugin-back-to-top/lib/client/config.js'
-import * as clientConfig2 from '/Users/koopos/code/docs/electron-press/node_modules/@vuepress/plugin-copy-code/lib/client/config.js'
-import * as clientConfig3 from '/Users/koopos/code/docs/electron-press/node_modules/@vuepress/plugin-markdown-hint/lib/client/config.js'
-import * as clientConfig4 from '/Users/koopos/code/docs/electron-press/node_modules/@vuepress/plugin-medium-zoom/lib/client/config.js'
-import * as clientConfig5 from '/Users/koopos/code/docs/electron-press/node_modules/@vuepress/plugin-nprogress/lib/client/config.js'
-import * as clientConfig6 from '/Users/koopos/code/docs/electron-press/docs/.vuepress/.temp/prismjs/config.js'
-import * as clientConfig7 from '/Users/koopos/code/docs/electron-press/docs/.vuepress/.temp/markdown-tab/config.js'
-import * as clientConfig8 from '/Users/koopos/code/docs/electron-press/node_modules/@vuepress/plugin-theme-data/lib/client/config.js'
-import * as clientConfig9 from '/Users/koopos/code/docs/electron-press/node_modules/@vuepress/theme-default/lib/client/config.js'
+import * as clientConfig0 from 'D:/workspace/new/doc-electron-template/node_modules/@vuepress/plugin-active-header-links/lib/client/config.js'
+import * as clientConfig1 from 'D:/workspace/new/doc-electron-template/node_modules/@vuepress/plugin-back-to-top/lib/client/config.js'
+import * as clientConfig2 from 'D:/workspace/new/doc-electron-template/node_modules/@vuepress/plugin-copy-code/lib/client/config.js'
+import * as clientConfig3 from 'D:/workspace/new/doc-electron-template/node_modules/@vuepress/plugin-markdown-hint/lib/client/config.js'
+import * as clientConfig4 from 'D:/workspace/new/doc-electron-template/node_modules/@vuepress/plugin-medium-zoom/lib/client/config.js'
+import * as clientConfig5 from 'D:/workspace/new/doc-electron-template/node_modules/@vuepress/plugin-nprogress/lib/client/config.js'
+import * as clientConfig6 from 'D:/workspace/new/doc-electron-template/docs/.vuepress/.temp/prismjs/config.js'
+import * as clientConfig7 from 'D:/workspace/new/doc-electron-template/docs/.vuepress/.temp/markdown-tab/config.js'
+import * as clientConfig8 from 'D:/workspace/new/doc-electron-template/node_modules/@vuepress/plugin-theme-data/lib/client/config.js'
+import * as clientConfig9 from 'D:/workspace/new/doc-electron-template/node_modules/@vuepress/theme-default/lib/client/config.js'
 
 export const clientConfigs = [
   clientConfig0,
